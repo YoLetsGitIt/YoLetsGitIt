@@ -1,6 +1,6 @@
 ### Hi there, I'm Matthew
 
-[![Website](https://img.shields.io/website?label=matthewkwon.com&style=for-the-badge&url=https%3A%2F%codestackr.com)](https://matthewkwon.netlify.app/)
+[![Website](https://img.shields.io/website?label=matthewkwon.com)](https://matthewkwon.netlify.app/)
 
 ## I'm a Developer, Student, and Teacher!!
 
